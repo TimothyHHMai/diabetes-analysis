@@ -39,7 +39,7 @@ The purpose of this analysis is to predict diabetic patients' risk of rehospital
 * eda.ipynb - exploratory data analysis on patient characteristics and medication features
 * feature_engineering_selection.ipynb - experiments to create new features and select features based on model importance
 * preprocessing.ipynb - correct NA values in string feature columns and measure missing values
-* tuning.ipynb - pipeline configuration, model training and hyperparameter tuning experiments
+* tuning.ipynb - pipeline configuration, model training and hyperparameter tuning experiments. This file serves as our project report
 
 # Artifacts
 
